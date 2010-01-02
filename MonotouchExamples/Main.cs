@@ -109,12 +109,12 @@ namespace MonotouchExamples
 			
 			
 			#region Regular Expressions (RegEx)
-			var emailRegex = @"^([0-9a-zA-Z]([-\.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$";
+			/*var emailRegex = @"^([0-9a-zA-Z]([-\.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$";
 			var realEmail = "my@email.com";
 			var fakeEmail = "notAEmailAddress.com";
 			var formatString = "{0} is a real e-mail = {1}";
 			Console.WriteLine ((String.Format(formatString, realEmail, Regex.IsMatch(realEmail, emailRegex))));			
-			Console.WriteLine ((String.Format(formatString, fakeEmail, Regex.IsMatch(fakeEmail, emailRegex))));
+			Console.WriteLine ((String.Format(formatString, fakeEmail, Regex.IsMatch(fakeEmail, emailRegex))));*/
 			#endregion
 			
 			
