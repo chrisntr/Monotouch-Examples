@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonotouchExamples", "MonotouchExamples\MonotouchExamples.csproj", "{A096A669-1709-4BE8-9D09-C54C32FC5A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Release|iPhone.Build.0 = Release|iPhone
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A096A669-1709-4BE8-9D09-C54C32FC5A01}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MonotouchExamples\MonotouchExamples.csproj
+	EndGlobalSection
+EndGlobal
